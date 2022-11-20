@@ -3,8 +3,6 @@
 33
 444
 abab
-<<<<<<< HEAD
 iiiiiiii
-=======
 hhhhhhhhh
->>>>>>> master
+
